@@ -106,11 +106,14 @@ body {
       margin-bottom: 5px;
     }
 
-    .toDoList ul {
-      padding-left: 10px;
-      list-style-type: disc;
-      list-style-position: inside;
-    }
+      .toDoList ul {
+          padding-left: 10px;
+      }
+
+      .toDoList ul li {
+          list-style-type: disc;
+          list-style-position: inside;
+      }
 
 
 
