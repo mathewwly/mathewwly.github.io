@@ -118,6 +118,22 @@ body {
 
 
 
+/*---*/
+
+.content {
+    float: left;
+    width: 960px;
+}
+
+.blog {
+  float: left;
+  width: 80%;
+}
+
+.date {
+  float: left;
+  width: 20%;
+}
 
 /*------------------------------------*\
     $TYPOGRAPHY
