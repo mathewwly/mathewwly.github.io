@@ -146,12 +146,14 @@ body {
   float: left;
   width: 80%;
   border-right: 1px solid #95a4a9;
+  padding-right: 10px;
 }
 
   .text h1 {
     font-size: 18px;
     font-weight: bold;
     line-height: 1;
+    padding-bottom: 5px;
   }
 
   .text p {
