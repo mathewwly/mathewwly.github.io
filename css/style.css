@@ -136,6 +136,40 @@ body {
 }
 
 /*------------------------------------*\
+    $BLOG
+\*------------------------------------*/
+.post {
+  width: 700px;
+}
+
+.text {
+  float: left;
+  width: 80%;
+  border-right: 1px solid #95a4a9;
+}
+
+  .text h1 {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1;
+  }
+
+  .text p {
+    font-weight: normal;
+  }
+
+.date {
+  float: left;
+  width: 10%;
+}
+
+  .date p {
+    padding-left: 10px;
+  }
+
+
+
+/*------------------------------------*\
     $TYPOGRAPHY
 \*------------------------------------*/
 p,
